@@ -3,7 +3,7 @@ The ultimate, all-in-one productivity power-tool for Windows.
 
 Swiss Knife Toolbox is a modern, lightweight, and elegant utility designed to streamline your workflow. It combines advanced screen capturing, AI-powered content analysis, instant music recognition, and precise measurement tools into a single, seamless experience.
 
-🌐 Website & Early Access: [sktoolbox.pro](https://sktoolbox.pro)
+🌐 Website: [sktoolbox.pro](https://sktoolbox.pro)
 
 📢 Version 1.0 & Sustainability Note
 We are excited to announce that Swiss Knife Toolbox v1.0 is now officially available for download!
