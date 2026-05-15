@@ -47,11 +47,7 @@ Maintaining high-performance cloud services and providing free access to special
 - Windows 10/11
 - .NET 8.0 Runtime (The installer will guide you if missing)
 
-### Configuration
-To unlock the full potential of the AI and Music features, right-click the tray icon, go to Settings, and provide your own keys (for now):
 
-- **Gemini API Key**: Get it for free from [Google AI Studio](https://aistudio.google.com/app/apikey).
-- **AudD Token**: Available at the [AudD Dashboard](https://dashboard.audd.io/).
 
 ---
 Developed with ❤️ by barrtk
